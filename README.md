@@ -26,7 +26,7 @@ Aplikasi ini merupakan sistem manajemen user sederhana yang dibuat menggunakan P
 
 **Form Tambah User**
 
-![Form Tambah User](SS/Screenshot%202025-06-03%20at%2014.26.44.png)
+![Form Tambah User](SS/Screenshot%202025-06-03%20at%2014.26.55.png)
 
 **Form Daftar User**
 
@@ -34,7 +34,7 @@ Aplikasi ini merupakan sistem manajemen user sederhana yang dibuat menggunakan P
 
 **Form Edit User**
 
-![Form Edit User](SS/Screenshot%202025-06-03%20at%2014.27.20.png)
+![Form Edit User](SS/Screenshot%202025-06-03%20at%2014.26.44.png)
 
 ---
 
